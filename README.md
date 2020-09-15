@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**flplima/flplima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Felipe Lima**. Sou desenvolvedor Full Stack Javascript.
 
-Here are some ideas to get you started:
+👨‍💻 Trabalho principalmente com...
+- Typescript
+- React
+- React Native
+- NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Ferramentas favoritas
+- NestJS
+- NextJS
+- SWR
+- React Hook Form
+
+🌱 Estudando...
+- TensorFlow.js
+- GitHub Actions
+
+🌎 Meus projetos open source
+- [Laika, uma assistente virtual feita para desenvolvedores](https://github.com/flplima/laika)
+
+🔭 Disponível para trabalho remoto como PJ
+
+💬 Fale comigo no [LinkedIn](https://www.linkedin.com/in/felipelimadasilva/)
