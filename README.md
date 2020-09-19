@@ -17,6 +17,8 @@ Meu nome é **Felipe Lima**. Sou desenvolvedor Full Stack Javascript.
 🌱 Estudando...
 - TensorFlow.js
 - GitHub Actions
+- XState
+- Cypress
 
 🌎 Meus projetos open source
 - [Laika, uma assistente virtual feita para desenvolvedores](https://github.com/flplima/laika)
