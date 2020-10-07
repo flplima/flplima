@@ -1,28 +1,8 @@
-### Olá 👋
+### Hi there 👋
 
-Meu nome é **Felipe Lima**. Sou desenvolvedor Full Stack Javascript.
-
-👨‍💻 Trabalho principalmente com...
-- Typescript
-- React
-- React Native
-- NodeJS
-
-🌟 Ferramentas favoritas
-- NestJS
-- NextJS
-- SWR
-- React Hook Form
-
-🌱 Estudando...
-- TensorFlow.js
-- GitHub Actions
-- XState
-- Cypress
-
-🌎 Meus projetos open source
-- [Laika, uma assistente virtual feita para desenvolvedores](https://github.com/flplima/laika)
-
-🔭 Disponível para trabalho remoto como PJ
-
-💬 Fale comigo no [LinkedIn](https://www.linkedin.com/in/felipelimadasilva/)
+- 👨‍💻 I'm a Full Stack JavaScript developer.
+- ❤️ I love working with TypeScript, React, Next.js and NestJS;
+- 🌱 I’m currently learning about state machines, chatbots, machine learning, AI stuff and how to play violin;
+- 🤖 Looking for a cool open source project? Go see [Laika, my virtual assistant](https://github.com/flplima/laika);
+- 💬 Ask me about classical music, stoicism, history of religion or how to play piano;
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/felipelimadasilva/);
